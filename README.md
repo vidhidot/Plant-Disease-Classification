@@ -15,6 +15,6 @@ We trained and tested them on a massive Kaggle dataset, and spoiler alert transf
 - NumPy, Matplotlib, Pandas
 - Transfer Learning (VGG16, DenseNet121)
 
-[ Read Full Research Paper](./Optimized_Plant_Disease_Classification (Paper).pdf)
+
 
 
